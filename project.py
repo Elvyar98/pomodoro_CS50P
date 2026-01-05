@@ -169,7 +169,7 @@ def main():
 
     else:
         WORK_MIN = 50
-        BREAK = 10
+        BREAK = 5
         ROUNDS = 4
 
 
